@@ -26,4 +26,5 @@ There are including the following procedures and its corresponding scripts
 - Exporting data from data base and showing off on android emulator.
 ![](images/android2.png?raw=true)
 ![](images/android1.png?raw=true)
+<img src="images/android1.png" alt="drawing" width="200"/>
 
