@@ -8,7 +8,7 @@ There are including the following procedures and its corresponding scripts
 - Sending data to local data base.
 ![](images/sql.png?raw=true)
 - Exporting data from data base and showing off on android emulator.
-![](images/android1.png?raw=true)
 ![](images/android2.png?raw=true)
+![](images/android1.png?raw=true)
 
 ## Description for Script
