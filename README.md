@@ -9,7 +9,7 @@ Part 1. Scrapy news data. The scripts are
     ScrapyNews.cs
     Form1.cs
 
-Part 2. Data communication. The API scripts is written in
+Part 2. Data communication with ms-sql. The API scripts is written in
     
     BaseballNewsController.cs
 
